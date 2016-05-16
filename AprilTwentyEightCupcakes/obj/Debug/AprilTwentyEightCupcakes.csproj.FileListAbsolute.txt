@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\AprilTwentyEightCupcakes\AprilTwentyEightCupcakes\bin\Debug\AprilTwentyEightCupcakes.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\AprilTwentyEightCupcakes\AprilTwentyEightCupcakes\bin\Debug\AprilTwentyEightCupcakes.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\AprilTwentyEightCupcakes\AprilTwentyEightCupcakes\bin\Debug\AprilTwentyEightCupcakes.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\AprilTwentyEightCupcakes\AprilTwentyEightCupcakes\obj\Debug\AprilTwentyEightCupcakes.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\AprilTwentyEightCupcakes\AprilTwentyEightCupcakes\obj\Debug\AprilTwentyEightCupcakes.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\AprilTwentyEightCupcakes\AprilTwentyEightCupcakes\obj\Debug\AprilTwentyEightCupcakes.pdb
